@@ -1,0 +1,26 @@
+{
+    "estudiante":[
+    {   
+    "id":1,
+    "Nombre":"Oscar Gutierrez",
+    "edad":"18",
+    "lista asignaturas":[
+    {"asignatura":"Historia","nota":"9"},
+    {"asignatura":"Lengua","nota":"10"},
+    {"asignatura":"Matematicas","nota":"7"},
+    {"asignatura":"Filosofía","nota":"8"}
+            ]
+        }   
+    ],
+    "profesores":[
+    {
+    "id":2,
+    "nombre":"Jose Maria Toro Pino",
+    "edad":"52",
+    "lista de asignatura":[
+        {"Asignatura":"Filosofia","creditos":"25"},
+        {"Asignatura":"Psicologia","creditos":"40"}
+    ]
+    }
+    ] 
+    }

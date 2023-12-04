@@ -1,0 +1,38 @@
+{
+    "proyectos": [
+      {
+        "id": 1,
+        "nombre": "Sistema de Gestión",
+        "equipo": [
+          {"id": 101, "nombre": "Juan Pérez"},
+          {"id": 102, "nombre": "María Rodríguez"},
+          {"id": 103, "nombre": "Pablo Perez"}
+        ],
+        "tareas": [
+          {"id": 201, "descripcion": "Diseño de la interfaz", "completada": true},
+          {"id": 202, "descripcion": "Desarrollo del backend", "completada": true}
+        ],
+        "id": 2,
+        "nombre": "Sistema de Informática",
+        "equipo": [
+          {"id": 109, "nombre": "Francisco Garcia"},
+          {"id": 108, "nombre": "Jaime Mata"}
+        ],
+        "tareas": [
+          {"id": 209, "descripcion": "Diseño de la web", "completada": false},
+          {"id": 208, "descripcion": "Desarrollo del código", "completada": false}
+        ]
+      },
+      {
+        "id": 3,
+        "nombre": "Aplicación Móvil",
+        "equipo": [
+          {"id": 105, "nombre": "Carlos Gómez"},
+          {"id": 104, "nombre": "Ana López"}
+        ],
+        "tareas": [
+          {"id": 205, "descripcion": "Desarrollo de funciones principales", "completada": true},
+          {"id": 204, "descripcion": "Pruebas de rendimiento", "completada": true}
+        ]
+      }
+    ]}

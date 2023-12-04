@@ -1,0 +1,42 @@
+{
+    "empresa":[
+        {
+"id":1,
+"Nombre":"Oscar Gutierrez Beltran",
+"Edad":"21",
+"Cargo":"Programador",
+"Salario":"21000€",
+"proyectos":[
+{"Aplicación 1":[
+    {"detalles":"Crea el código principal","Nombre":"Aplicación Red social"},
+    {"fecha inicio":"17/09/2023","tareas":"Crea el código estructural"}
+]
+}
+],
+"id":2,
+"Nombre":"Roberto Gracia Fraidias",
+"Edad":"19",
+"Cargo":"Diseñador",
+"Salario":"27000€",
+"proyectos":[
+{"Aplicación 2":[
+    {"detalles":"Diseña la interfaz","Nombre":"Aplicación Facebook"},
+    {"fecha inicio":"19/10/2023","tareas":"Diseño de interfaz de inicio de sesión"}
+]
+        }
+    ],
+    "id":3,
+    "Nombre":"Pilar Beltran Rodriguez",
+    "Edad":"47",
+    "Cargo":"Jefa Proyecto",
+    "Salario":"32000€",
+    "proyectos":[
+    {"Aplicación 1 y Aplicación 2 ":[
+        {"detalles":"Dirección proyecto","Nombre":"Aplicación Facebook y Aplicación Red Social"},
+        {"fecha inicio":"16/09/2023","tareas":"Encargado de dirigir ambos proyectos"}
+    ]
+            }
+        ]
+        }
+    ]
+}
